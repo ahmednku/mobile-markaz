@@ -18631,3 +18631,23 @@ box-shadow:  0 0 2px #ccc;
 padding: 1rem 2rem;
 border-radius: 8px;
 }
+
+.image-div-subscribe{
+  width: 90%;
+}
+
+.subscribe-container{
+  width: 100% !important;
+}
+
+@media(max-width: 768px){
+  .subscribe-container{
+    width: 100% !important;
+  }
+
+  .image-div-subscribe{
+    width: 100%;
+    padding:1.5rem;
+  }
+  
+}
